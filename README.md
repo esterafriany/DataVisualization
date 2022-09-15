@@ -12,8 +12,7 @@
 
 
 #graph_csv_2.py
-> display number of cal per menu
-> source data : India_Menu.csv
+> display number of cal per menu, source data : India_Menu.csv
 1. libary used: csv & matpotlib
 2. csv format with no column header
 3. one axis format
