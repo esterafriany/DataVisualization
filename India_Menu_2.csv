@@ -1,0 +1,38 @@
+Menu_Category,Menu_Items,Per Serve Size,Energy,Protein,Total fat (g),Sat Fat (g),Trans fat (g),Cholesterols (mg),Total carbohydrate (g),Total Sugars (g),Added Sugars (g),Sodium (mg)
+Regular Menu,McVeggie™ Burger,168 g,402,10.24,13.83,5.34,0.16,2.49,56.54,7.9,4.49,706.13
+Regular Menu,McAloo Tikki Burger®,146 g,340,8.5,11.31,4.27,0.2,1.47,50.27,7.05,4.07,545.34
+Regular Menu,McSpicy™ Paneer Burger,199 g,653,20.29,39.45,17.12,0.18,21.85,52.33,8.35,5.27,1074.58
+Regular Menu,Spicy Paneer Wrap,250 g,675,20.96,39.1,19.73,0.26,40.93,59.27,3.5,1.08,1087.46
+Regular Menu,American Veg Burger,177 g,512,15.3,23.45,10.51,0.17,25.24,56.96,7.85,4.76,1051.24
+Regular Menu,Veg Maharaja Mac,306 g,833,24.17,37.94,16.83,0.28,36.19,93.84,11.52,6.92,1529.22
+Regular Menu,Green Chilli Aloo Naan,132 g,356,7.91,15.08,6.11,0.24,9.45,46.36,4.53,1.15,579.6
+Regular Menu,Pizza Puff,87 g,228,5.45,11.44,5.72,0.09,5.17,24.79,2.73,0.35,390.74
+Regular Menu,Mc chicken Burger,173 g,401,15.66,15.7,5.47,0.16,31.17,47.98,5.53,4.49,766.33
+Regular Menu,L1 Coffee,200 ml,7,0.0,0.0,0.0,0.0,0.0,1.7,0.0,0.0,0.0
+Regular Menu,L1 Coffee with milk,205 ml,36,1.0,2.0,1.2,0.08,6.0,1.6,3.45,0.0,14.0
+Regular Menu,Double Chocochips Muffin,80 g,342,5.13,17.28,7.14,0.08,15.96,40.13,29.44,0.0,313.21
+Regular Menu,Vanilla Chocochips Muffin,80 g,329,4.48,15.46,7.14,0.08,78.52,40.13,29.6,0.0,254.92
+Breakfast Menu,Veg McMuffin,119 g,309,10.22,11.78,7.29,0.18,25.31,38.86,3.02,0.75,804.63
+Breakfast Menu,Double Cheese McMuffin,100 g,274,9.58,12.82,8.84,0.21,37.75,29.0,2.59,0.75,622.95
+Breakfast Menu,Spicy Egg McMuffin,123.2 g,278,11.49,11.81,3.43,0.11,212.61,31.37,2.63,1.05,773.6
+Breakfast Menu,Sausage Mc Muffin,112 g,281,16.25,10.81,6.04,0.17,53.02,28.62,2.38,0.75,742.6
+McCafe Menu,Cappuccino (L),355 ml,219,10.51,12.03,8.85,0.36,36.55,19.81,14.45,0.0,155.06
+McCafe Menu,Latte (S),236.5 ml,148,7.12,8.41,6.18,0.24,25.47,12.71,10.06,0.0,108.4
+McCafe Menu,Latte (R),307.5 ml,190,9.1,10.42,7.67,0.31,31.68,17.15,12.52,0.0,134.39
+McCafe Menu,Latte (L),375 ml,232,11.14,12.82,9.43,0.38,38.95,20.77,15.4,0.0,165.36
+McCafe Menu,Flat White (S),266.5 ml,167,8.06,9.6,7.06,0.27,29.07,14.16,11.47,0.0,123.84
+McCafe Menu,Strawberry Shake,259 ml,256,3.67,7.44,6.68,0.12,8.39,44.07,37.42,29.8,139.97
+McCafe Menu,Medium Soft Serve: Strawberry,132.08 g,156,2.05,2.36,1.74,0.1,6.55,31.77,28.2,20.32,48.28
+McCafe Menu,Regular Soft Serve: Brownie with Hot Fudge,110.79 g,205,3.2,5.45,3.65,0.1,6.04,35.26,20.75,14.39,100.89
+McCafe Menu,Regular Blackforest,125.79 g,238,3.22,5.47,3.66,0.11,6.19,43.42,27.79,19.94,104.47
+McCafe Menu,Medium Blackforest,200.08 g,430,5.42,9.76,6.47,0.19,9.23,79.04,48.45,35.22,188.2
+Desserts Menu,Small McFlurry - Oreo,86.79 g,116,2.05,3.7,2.25,0.07,4.8,18.69,14.49,10.8,80.73
+Desserts Menu,Regular McFlurry - Oreo,147.38 g,209,3.58,6.81,4.07,0.12,8.0,33.42,25.35,19.23,150.9
+Gourmet Menu,American Triple Cheese Chicken,195 g,458,24.43,22.65,11.56,0.17,71.23,37.45,7.64,3.84,1396.17
+Gourmet Menu,American Triple Cheese Veg,207 g,525,19.54,23.16,14.78,0.19,48.74,56.24,7.9,3.84,1174.27
+Gourmet Menu,Cheese Lava Burger,240 g,671,14.99,33.48,14.12,0.21,33.21,74.25,16.27,10.01,1153.99
+Beverages Menu,Small Coca-Cola,299 ml,110,0.0,0.0,0.0,0.0,0.0,27.39,27.39,27.39,21.1709
+Beverages Menu,Coke Zero Can,330 ml,1,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,24.75
+Beverages Menu,Vedica Natural Mineral Water,500 ml,0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,2.9
+Condiments Menu,Mustard diping sauce,25 g,81,0.52,5.57,1.78,0.47,0.29,7.24,6.66,4.0,221.32
+Condiments Menu,BBQ diping sauce,25 g,55,0.26,0.49,0.15,0.04,0.25,12.36,7.65,2.5,113.23
